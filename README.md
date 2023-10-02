@@ -4,7 +4,7 @@ a weather app based on selected latitude and longitude - for educational purpose
 #how to run the app
 1. open file in VSCode and run "npm i" on the console to download the modules.
 2. on the console, run "nodemon index.js"
-3. go to http://http://localhost:3000 to try the app
+3. go to http://localhost:3000 to try the app
 
 #technical info
 1. The app was made with NodeJS and ExpressJS web framework
