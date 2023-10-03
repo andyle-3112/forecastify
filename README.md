@@ -1,6 +1,8 @@
 # forecastify
 a weather app based on selected latitude and longitude - for educational purposes
 
+#use the app LIVE here: https://forecastify-38ej.onrender.com/
+
 #how to run the app
 1. open file in VSCode and run "npm i" on the console to download the modules.
 2. on the console, run "nodemon index.js"
